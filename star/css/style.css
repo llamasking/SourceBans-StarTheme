@@ -13681,6 +13681,7 @@ body {
 
 .form-control,
 .form-control:focus {
+  box-shadow: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none; }
 
@@ -13970,7 +13971,7 @@ input:focus {
             margin-bottom: 8px; }
           .sidebar .nav .nav-item.nav-profile .nav-link .user-wrapper .text-wrapper .designation {
             margin-right: 3px; }
-    .sidebar .nav:not(.sub-menu) > .nav-item:hover:not(.nav-profile):not(.active) > .nav-link {
+    .sidebar .nav:not(.sub-menu) > .nav-item:hover:not(.nav-profile) > .nav-link {
       background: #222;
       color: #fff;
       transition: all 0.2s ease-in-out;
@@ -16362,9 +16363,6 @@ ul {
     font-size: 13px;
     line-height: 1;
     white-space: nowrap; }
-    .table td img,
-    .table th img {
-      /*border-radius: 100%; */}
     .table td .badge,
     .table th .badge {
       margin-bottom: 0; }
