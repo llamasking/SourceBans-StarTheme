@@ -13,3 +13,10 @@ Responsive theme for SourceBans++ v1.6.3
 [Sourcebans++ GitHub](https://github.com/sbpp/sourcebans-pp)
 
 [AlliedModders Forum Page](https://forums.alliedmods.net/showthread.php?p=2617738)
+
+---
+
+## Fork Info
+
+- The bans list displays all bans now. You no longer have to scroll down to see the ones at the bottom.
+- Use a slightly modified version of [Surf3rDud3's dark theme](https://forums.alliedmods.net/showpost.php?p=2637854&postcount=92).
